@@ -1,2 +1,2 @@
-# 100DaysOfCode
-day by day codes related to data science
+# 7DaysOfPython
+day by day codes related to Python Programming
